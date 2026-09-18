@@ -1,3 +1,4 @@
+<img width="1380" height="822" alt="Screenshot from 2026-09-18 16-42-39" src="https://github.com/user-attachments/assets/2a04f0e7-87bd-4f38-ac60-e2d3a53a58d0" />
 
 # Ecom Earn Fashion
 
