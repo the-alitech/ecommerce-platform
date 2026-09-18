@@ -1,3 +1,20 @@
+<img width="1380" height="636" alt="Screenshot from 2026-09-18 16-43-17" src="https://github.com/user-attachments/assets/97c3992e-f72c-4b86-8248-149e809cae9d" />![Homepage] <img width="1845" height="814" alt="Screenshot from 2026-09-18 16-40-12" src="https://github.com/user-attachments/assets/40e81f42-99c3-420e-9485-db7aeae1a772" />
+![Category] <img width="1845" height="814" alt="Screenshot from 2026-09-18 16-40-21" src="https://github.com/user-attachments/assets/9bbdffe6-036d-4b1e-8c14-49c7e11473b5" />
+![Activity] <img width="1845" height="492" alt="Screenshot from 2026-09-18 16-40-32" src="https://github.com/user-attachments/assets/b993b637-bcf8-48ff-81e4-34a90eeb5bba" />
+![Upcomming]<img width="1380" height="635" alt="Screenshot from 2026-09-18 16-40-58" src="https://github.com/user-attachments/assets/234ae16c-83c7-4847-be7e-7c15cf2fe6a3" />
+![Featured]<img width="1380" height="635" alt="Screenshot from 2026-09-18 16-41-09" src="https://github.com/user-attachments/assets/06958806-4644-4c5d-9e1a-9ac7430ec044" />
+![Best Seller]<img width="1380" height="635" alt="Screenshot from 2026-09-18 16-41-17" src="https://github.com/user-attachments/assets/79ede26b-2510-43bb-ba19-2ec7e2fbc204" />
+![Trending]<img width="1380" height="635" alt="Screenshot from 2026-09-18 16-41-24" src="https://github.com/user-attachments/assets/6cee8c6b-92b9-44bf-9cc3-2c7ff094308c" />
+![Customer review]<img width="1380" height="635" alt="Screenshot from 2026-09-18 16-41-32" src="https://github.com/user-attachments/assets/88d0cad2-1ebc-45d5-971d-040ad779c2a0" />
+![Footer]<img width="1380" height="392" alt="Screenshot from 2026-09-18 16-41-48" src="https://github.com/user-attachments/assets/3c9bc226-ad7f-4a66-959e-e2840bcb88ad" />
+![Shop]<img width="1380" height="822" alt="Screenshot from 2026-09-18 16-42-39" src="https://github.com/user-attachments/assets/31530a48-f394-4783-967a-30c011705fbc" />
+![Product Detail]<img width="1380" height="822" alt="Screenshot from 2026-09-18 16-42-55" src="https://github.com/user-attachments/assets/079aa84e-3e02-4f45-b3cd-a66ffbe5b3ec" />
+![Shopping Cart]<img width="1380" height="636" alt="Screenshot from 2026-09-18 16-43-17" src="https://github.com/user-attachments/assets/349f75c3-ef84-44d1-a258-2f18756a6dca" />
+![SingIn]<img width="1380" height="636" alt="Screenshot from 2026-09-18 16-43-38" src="https://github.com/user-attachments/assets/42b94731-5fff-4637-b6c1-286ef768bf15" />
+![Create Account]<img width="1380" height="841" alt="Screenshot from 2026-09-18 16-43-50" src="https://github.com/user-attachments/assets/a3b2ef9c-94f1-4221-8a55-cc474281d532" />
+
+
+
 <img width="1380" height="822" alt="Screenshot from 2026-09-18 16-42-39" src="https://github.com/user-attachments/assets/2a04f0e7-87bd-4f38-ac60-e2d3a53a58d0" />
 
 # Ecom Earn Fashion
