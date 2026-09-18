@@ -1,8 +1,8 @@
-# Ecom Earn Fashion — Project Overview
+# H.B shoes — Project Overview
 
 ## 1. Purpose
 
-**Ecom Earn Fashion** is a multi-category e-commerce platform built for fashion and apparel businesses (especially Pakistan-focused stores).
+**H.B shoes** is a multi-category e-commerce platform built for fashion and apparel businesses (especially Pakistan-focused stores).
 
 It lets customers:
 
@@ -304,7 +304,7 @@ Shop size pills call `GET /api/products/?size=41` (or other size). Options come 
 
 ## 12. License
 
-Proprietary — Ecom Earn Fashion Platform.
+Proprietary — H.B shoes.
 
 ---
 
