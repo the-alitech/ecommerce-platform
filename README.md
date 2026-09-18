@@ -1,3 +1,4 @@
+
 # Ecom Earn Fashion
 
 Production-ready multi-category e-commerce platform for fashion and apparel businesses.
@@ -239,6 +240,4 @@ The `seed_data` management command creates:
 python manage.py seed_data
 ```
 
-## License
 
-Proprietary - Ecom Earn Fashion Platform
